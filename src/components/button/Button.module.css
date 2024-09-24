@@ -1,0 +1,14 @@
+.btn {
+  display: grid;
+  place-content: center;
+  width: 258px;
+  height: 66px;
+  padding: 24px 56px;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: medium;
+  color: #333333;
+  background-color: #ffffff;
+  border-radius: 40px;
+  border: none;
+}

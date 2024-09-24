@@ -1,0 +1,11 @@
+.list-content {
+  display: flex;
+  gap: 100px;
+}
+.list-content li {
+  display: flex;
+  gap: 24px;
+  width: 333px;
+  height: 43px;
+  font-size: 18px;
+}
